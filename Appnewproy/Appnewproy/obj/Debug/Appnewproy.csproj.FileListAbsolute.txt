@@ -1,0 +1,5 @@
+C:\Users\LAB104BPC14\Documents\Visual Studio 2012\Projects\Appnewproy\Appnewproy\bin\Debug\Appnewproy.exe.config
+C:\Users\LAB104BPC14\Documents\Visual Studio 2012\Projects\Appnewproy\Appnewproy\bin\Debug\Appnewproy.exe
+C:\Users\LAB104BPC14\Documents\Visual Studio 2012\Projects\Appnewproy\Appnewproy\bin\Debug\Appnewproy.pdb
+C:\Users\LAB104BPC14\Documents\Visual Studio 2012\Projects\Appnewproy\Appnewproy\obj\Debug\Appnewproy.exe
+C:\Users\LAB104BPC14\Documents\Visual Studio 2012\Projects\Appnewproy\Appnewproy\obj\Debug\Appnewproy.pdb
